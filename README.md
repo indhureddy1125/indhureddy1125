@@ -34,7 +34,7 @@
 ### 🎨 *Language Translation Chatbot*  
 📌 *Description:* AI chatbot that translates languages in real time, integrated with a custom UI.  
 🛠 *Tech Stack:* Python, AI APIs, HTML, CSS  
-🔗 [GitHub Repo](https://github.com/your-github-username/language-translation-chatbot)  
+🔗 [GitHub Repo](https://github.com/indhureddy1125/Language-Translation-Chatbot)  
 
 ### 📊 *Stock Management System (C++)*  
 📌 *Description:* A stock management system that tracks inventory and sales.  
