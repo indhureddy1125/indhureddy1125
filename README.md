@@ -46,18 +46,18 @@
 ## 📈 GitHub Stats  
 📊 *Activity Graph:*  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik0&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indhureddy1125&theme=dracula" />
 </p>
 
 📌 *Top Languages:*  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-kaushik0&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhureddy1125&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rohit-hrk-517809231/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mukkisa-indhu-reddy-91380b231/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=web)](https://yourwebsite.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourhandle)  
 
